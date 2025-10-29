@@ -4,7 +4,7 @@
 **Materia:** Sistemas Operativos  
 **Docente:** John Corredor  
 **Universidad:** Pontificia Universidad Javeriana  
-**Fecha:** 08/10/2025
+**Fecha:** 28/10/2025
 
 ---
 
